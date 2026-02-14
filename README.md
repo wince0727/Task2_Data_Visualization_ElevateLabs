@@ -21,4 +21,4 @@ Power BI
 - Sales peak during year-end months
 
 ## Output
-- Dashboard exported as PDF (`superstore_dashboard.pdf`)
+- Dashboard exported as PDF (`https://github.com/wince0727/Task2_Data_Visualization_ElevateLabs/blob/main/superstore_dashboard.pdf`)
